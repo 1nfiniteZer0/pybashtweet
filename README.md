@@ -16,9 +16,11 @@ or
 3. Type "sudo bash pybashtweet.sh"
 4. Enter info and tweet!
 
+TIP: To delete saved credentials replace step 3 with the command "sudo bash pybashtweet.sh deletesaved"
+
 # Instructions for download option 2
 1. Create Twitter app at apps.twitter.com and generate keys.
-4. Type "sudo bash pybashtweet.sh"
-5. Enter info and tweet!
+2. Type "sudo bash pybashtweet.sh"
+3. Enter info and tweet!
 
-TIP: To delete saved credentials replace step 4 with the command "sudo bash pybashtweet.sh deletesaved"
+TIP: To delete saved credentials replace step 2 with the command "sudo bash pybashtweet.sh deletesaved"
