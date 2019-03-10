@@ -8,7 +8,7 @@ All you need is to go to apps.twitter.com and create an app. Get your keys and a
 There are two ways to donwload.
 1. wget "https://github.com/1nfiniteZer0/pybashtweet/blob/master/pybashtweet.sh"
 
-                                  or
+                                                               or
 
 2. git clone https://github.com/1nfiniteZer0/pybashtweet.git
 
