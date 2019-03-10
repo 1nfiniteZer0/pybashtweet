@@ -10,4 +10,5 @@ All you need is to go to apps.twitter.com and create an app. Get your keys and a
 3. Type "cd Desktop"
 4. Type "sudo bash tweet.sh"
 5. Enter info and tweet!
+
 TIP: To delete saved credentials replace step 4 with the command "sudo bash tweet.sh deletesaved"
