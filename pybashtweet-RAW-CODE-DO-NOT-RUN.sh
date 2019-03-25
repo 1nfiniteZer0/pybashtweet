@@ -96,7 +96,7 @@ sudo python tweet.py
 # Deletes current tweet python file
 sudo rm tweet.py
 
-# Displays DONE
+# Displays DONE and exits
 clear
 echo DONE
 sleep 5
