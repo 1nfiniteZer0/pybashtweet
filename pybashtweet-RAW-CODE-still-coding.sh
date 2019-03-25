@@ -99,3 +99,6 @@ sudo rm tweet.py
 # Displays DONE
 clear
 echo DONE
+sleep 5
+clear
+exit 0
