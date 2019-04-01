@@ -2,6 +2,15 @@
 # Go to apps.twitter.com and sign in with your account. Create a Twitter application
 # and go to Keys and Tokens. Generate a Consumer Key, Consumer Secret,
 # Access Token, and Access Token Secret.
+
+# By: Aidan Biggs
+# AKA AT Vloggers
+# 
+# Please do not claim this as your own.
+# 
+# If you remove this it means you break the Code of Use found here: 
+# https://at-vloggers.weebly.com/code-of-use.html
+
 saveinfo(){
 	echo $ckey >>creds1.txt
 	echo $csecret >> creds2.txt
